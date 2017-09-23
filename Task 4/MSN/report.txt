@@ -1,0 +1,134 @@
+﻿www.reuters.com: 14 Time: 2017-03-12 22:13:33 #this section can mostly be blocked
+1. www.reuters.com #cannot be blocked
+2. api.native.ai
+3. reutersdfpcw319687550988.s.moatpixel.com
+4. dt.adsafeprotected.com
+5. mail.google.com
+6. ad.doubleclick.net
+7. pagead2.googlesyndication.com
+8. safebrowsing.google.com
+9. clients1.google.com
+10. safebrowsing-cache.google.com
+11. safebrowsing-cache.google.com
+12. safebrowsing-cache.google.com
+13. msn.com #cannot be blocked
+14. safebrowsing-cache.google.com
+www.msn.com: 8 Time: 2017-03-12 22:14:06  #this section cannot be blocked
+1. www.msn.com
+2. safebrowsing-cache.google.com
+3. static-hp-eus-s-msn-com.akamaized.net
+4. o.aolcdn.com
+5. img-s-msn-com.akamaized.net
+6. rad.msn.com
+7. safebrowsing-cache.google.com
+8. c.msn.com
+www.bing.com: 19 Time: 2017-03-12 22:14:08 
+1. www.bing.com #cannot block
+2. img.s-msn.com #cannot block
+3. otf.msn.com #cannot block
+4. safebrowsing-cache.google.com
+5. at.atwola.com
+6. b.scorecardresearch.com
+7. c.bing.com
+8. safebrowsing-cache.google.com
+9. acdn.adnxs.com
+10. pixel.advertising.com
+11. otf.msn.com #cannot block
+12. m.adnxs.com
+13. safebrowsing-cache.google.com
+14. safebrowsing-cache.google.com
+15. login.live.com
+16. support.microsoft.com
+17. outlook.com
+18. g.bing.com
+19. static.chartbeat.com
+www.bizographics.com: 38 Time: 2017-03-12 22:14:13 
+1. www.bizographics.com
+2. widgets.outbrain.com
+3. vcdn.adnxs.com
+4. cdn.adnxs.com
+5. js.moatads.com
+6. pixel.adsafeprotected.com
+7. n-cdn.areyouahuman.com
+8. nym1-ib.adnxs.com
+9. tacoda.at.atwola.com
+10. s2.symcb.com
+11. safebrowsing-cache.google.com
+12. ping.chartbeat.net
+13. us-east-1.dc.ads.linkedin.com
+14. cdn.at.atwola.com
+15. odb.outbrain.com
+16. sync.outbrain.com
+17. beacon.walmart.com
+18. ib.adnxs.com
+19. sc.iasds01.com
+20. n-cdn-origin.areyouahuman.com
+21. dt.adsafeprotected.com
+22. ocsp.digicert.com
+23. ads.scorecardresearch.com
+24. images.outbrain.com
+25. clk.tradedoubler.com
+26. ocsp2.globalsign.com
+27. cm.g.doubleclick.net
+28. odr.mookie1.com
+29. sync.mathtag.com
+30. dis.criteo.com
+31. p.rfihub.com
+32. match.adsrvr.org
+33. pixel.rubiconproject.com
+34. t.mookie1.com
+35. n-cdn-origin.areyouahuman.com
+36. secure.adnxs.com
+37. d.turn.com
+38. adx.adnxs.com
+www.skype.com: 4 Time: 2017-03-12 22:14:22 
+1. www.skype.com
+2. redirect.viglink.com
+3. onedrive.live.com
+4. tlg.mookie1.com
+www.linkedin.com: 3 Time: 2017-03-12 22:14:23 
+1. www.linkedin.com
+2. bing.com
+3. displayads.walmart.com
+www.facebook.com: 7 Time: 2017-03-12 22:14:24 
+1. www.facebook.com
+2. www.onenote.com
+3. twitter.com
+4. dc.ads.linkedin.com
+5. aka.ms
+6. go.microsoft.com
+7. music.microsoft.com
+www.microsoft.com: 4 Time: 2017-03-12 22:14:26 
+1. www.microsoft.com
+2. px.moatads.com
+3. smg-design.s3.amazonaws.com
+4. ad.atdmt.com
+www.nextadvisor.com: 3 Time: 2017-03-12 22:14:27 
+1. www.nextadvisor.com
+2. gp.symcd.com
+3. zone.msn.com #cannot block
+www.match.com: 24 Time: 2017-03-12 22:14:28 
+1. www.match.com
+2. otf.msn.com.localdomain #cannot block
+3. www.autotrader.com
+4. flights.msn.com #cannot block
+5. carrentals.msn.com #cannot block
+6. otf.msn.com #cannot block
+7. newsletters.msn.com #cannot block
+8. advertising.microsoft.com
+9. paid.outbrain.com
+10. otf.msn.com #cannot block
+11. dt.adsafeprotected.com.localdomain
+12. dt.adsafeprotected.com
+13. otf.msn.com #cannot block
+14. otf.msn.com #cannot block
+15. otf.msn.com #cannot block
+16. otf.msn.com #cannot block
+17. otf.msn.com #cannot block
+18. otf.msn.com #cannot block
+19. otf.msn.com #cannot block
+20. otf.msn.com #cannot block
+21. img-s-msn-com.akamaized.net #cannot block
+22. otf.msn.com #cannot block
+23. otf.msn.com #cannot block
+24. otf.msn.com #cannot block

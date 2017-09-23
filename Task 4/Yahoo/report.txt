@@ -1,0 +1,52 @@
+﻿yahoo.com: 1 Time: 2017-03-12 22:16:12 
+1. yahoo.com
+www.yahoo.com: 12 Time: 2017-03-12 22:16:13  #cannot block this section
+1. www.yahoo.com
+2. s.yimg.com
+3. safebrowsing.google.com
+4. sb.scorecardresearch.com
+5. beap-bc.yahoo.com
+6. na.ads.yahoo.com
+7. pagead2.googlesyndication.com
+8. ads.yahoo.com
+9. udc.yahoo.com
+10. ocsp.comodoca.com
+11. geo.yahoo.com
+12. comet.yahoo.com
+www.yahoo.com: 21 Time: 2017-03-12 22:16:16  #cannot block most of this section
+1. www.yahoo.com
+2. ss.symcd.com
+3. clients1.google.com
+4. udc.yahoo.com
+5. beap.gemini.yahoo.com
+6. csync.flickr.com
+7. rtb.openx.net
+8. geo-um.btrll.com
+9. r.turn.com
+10. secure.adnxs.com
+11. comet.yahoo.com
+12. match.adsrvr.org
+13. ocsp.trustwave.com
+14. pr-bh.ybp.yahoo.com
+15. googleads.g.doubleclick.net
+16. csync.yahooapis.com
+17. gn.symcd.com
+18. beacon.krxd.net
+19. cache.btrll.com
+20. ocsp.digicert.com
+21. tpc.googlesyndication.com
+www.google.com: 14 Time: 2017-03-12 22:16:20 #can blcok this section until comet.yahoo
+1. www.google.com
+2. ocsp.godaddy.com
+3. cm.g.doubleclick.net
+4. pix04.revsci.net
+5. ocsp.netsolssl.com
+6. comet.yahoo.com
+7. stags.bluekai.com
+8. sg.symcd.com
+9. comet.yahoo.com
+10. comet.yahoo.com
+11. comet.yahoo.com
+12. comet.yahoo.com
+13. comet.yahoo.com
+14. comet.yahoo.com

@@ -1,0 +1,23 @@
+theguardian.com: 1 Time: 2017-03-13 10:39:26 
+1. theguardian.com
+www.theguardian.com: 6 Time: 2017-03-13 10:39:26 
+1. www.theguardian.com
+2. assets.guim.co.uk
+3. i.guim.co.uk
+4. interactive.guim.co.uk
+5. static.theguardian.com
+6. beacon.gu-web.net
+www.facebook.com: 7 Time: 2017-03-13 10:39:27 
+1. www.facebook.com
+2. sb.scorecardresearch.com
+3. ocsp.sca1b.amazontrust.com
+4. stats.g.doubleclick.net
+5. ophan.theguardian.com
+6. secure-dcr.imrworldwide.com
+7. secure-au.imrworldwide.com
+www.googleadservices.com: 5 Time: 2017-03-13 10:39:30 
+1. www.googleadservices.com
+2. api.nextgen.guardianapps.co.uk
+3. www.googletagservices.com
+4. connect.facebook.net
+5. app.getsentry.com

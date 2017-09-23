@@ -1,0 +1,35 @@
+yahoo.com: 1 Time: 2017-03-13 10:36:13 
+1. yahoo.com
+www.yahoo.com: 11 Time: 2017-03-13 10:36:13 
+1. www.yahoo.com
+2. s.yimg.com
+3. sb.scorecardresearch.com
+4. na.ads.yahoo.com
+5. pagead2.googlesyndication.com
+6. ads.yahoo.com
+7. beap-bc.yahoo.com
+8. ss.symcd.com
+9. udc.yahoo.com
+10. googleads.g.doubleclick.net
+11. comet.yahoo.com
+www.yahoo.com: 20 Time: 2017-03-13 10:36:20 
+1. www.yahoo.com
+2. udc.yahoo.com
+3. csync.flickr.com
+4. udc.yahoo.com
+5. beap.gemini.yahoo.com
+6. udc.yahoo.com
+7. x.bidswitch.net
+8. rtb.openx.net
+9. r.turn.com
+10. beacon.krxd.net
+11. ocsp.comodoca.com
+12. csync.yahooapis.com
+13. pr-bh.ybp.yahoo.com
+14. comet.yahoo.com
+15. e.nexac.com
+16. comet.yahoo.com
+17. comet.yahoo.com
+18. comet.yahoo.com
+19. us.af.beap.bc.yahoo.com
+20. comet.yahoo.com

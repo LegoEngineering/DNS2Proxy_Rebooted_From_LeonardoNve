@@ -1,0 +1,95 @@
+﻿fox.com: 1 Time: 2017-03-12 22:18:17 
+1. fox.com
+www.fox.com: 29 Time: 2017-03-12 22:18:17 #can block most of this section
+1. www.fox.com
+2. cdn.optimizely.com
+3. cloud.typography.com
+4. tags.tiqcdn.com
+5. entitlement.auth.adobe.com
+6. 2364010203.log.optimizely.com
+7. ocsp.digicert.com
+8. connect.facebook.net
+9. ds-aksb-a.akamaihd.net
+10. cdnjs.cloudflare.com
+11. d2wgn7zv2wvh1n.cloudfront.net
+12. d3pqsunsz2jksl.cloudfront.net
+13. sp.auth.adobe.com
+14. cdns.gigya.com
+15. adm.fwmrm.net
+16. api.fox.com #cannot block this
+17. z.moatads.com
+18. my.hellobar.com
+19. t.a3cloud.net
+20. dpm.demdex.net
+21. asset.pagefair.com
+22. asset.pagefair.net
+23. b.scorecardresearch.com
+24. secure-us.imrworldwide.com
+25. loadus.exelator.com
+26. dnn506yrbagrg.cloudfront.net
+27. serve.truex.com
+28. edge.quantserve.com
+29. 5779616.fls.doubleclick.net
+www.googleadservices.com: 13 Time: 2017-03-12 22:18:22  #can block this whole section
+1. www.googleadservices.com
+2. ss.symcd.com
+3. 1c6e2.v.fwmrm.net
+4. www.facebook.com
+5. staticxx.facebook.com
+6. ib.adnxs.com
+7. fast.foxnet.demdex.net
+8. a.fox.com #cannot block this
+9. stats.pagefair.com
+10. pixel.quantserve.com
+11. rules.quantcount.com
+12. googleads.g.doubleclick.net
+13. cdns.us1.gigya.com
+www.google.com: 21 Time: 2017-03-12 22:18:23 #can block this whole section except google.com
+1. www.google.com
+2. m1.fwmrm.net
+3. ads.stickyadstv.com
+4. tags.bluekai.com
+5. segment.a3cloud.net
+6. aa.agkn.com
+7. loadm.exelator.com
+8. idsync.rlcdn.com
+9. sync.tidaltv.com
+10. cm.g.doubleclick.net
+11. rtd.tubemogul.com
+12. dt.scanscout.com
+13. get.truex.com
+14. abp.mxptint.net
+15. 1f2e7.v.fwmrm.net
+16. load.s3.amazonaws.com
+17. d136swi17h0tnq.cloudfront.net
+18. shop.fox.com #cannot block this 
+19. ad.doubleclick.net
+20. twitter.com
+21. ask.fox.com #cannot block this
+www.foxcareers.com: 6 Time: 2017-03-12 22:18:26 
+1. www.foxcareers.com
+2. www.simpsonsworld.com
+3. www.fcc.gov
+4. foxbroadcasting.zendesk.com
+5. project.fox.com
+6. impact.21cf.com
+www.foxbusiness.com: 5 Time: 2017-03-12 22:18:27 
+1. www.foxbusiness.com
+2. www.foxmoviechannel.com
+3. www.fxnetworks.com
+4. www.foxnews.com
+5. gscounters.us1.gigya.com
+www.foxsports.com: 4 Time: 2017-03-12 22:18:28 
+1. www.foxsports.com
+2. www.foxmovies.com
+3. www.foxinternational.com
+4. www.foxstudios.com
+www.foxhome.com: 3 Time: 2017-03-12 22:18:29 
+1. www.foxhome.com
+2. www.21cf.com
+3. foxinternationalchannels.com
+www.foxmusic.com: 4 Time: 2017-03-12 22:18:30 
+1. www.foxmusic.com
+2. www.foxsearchlight.com
+3. channel.nationalgeographic.com
+4. l.facebook.com

@@ -1,0 +1,16 @@
+fox.com: 1 Time: 2017-03-13 10:40:49 
+1. fox.com
+www.fox.com: 13 Time: 2017-03-13 10:40:50 
+1. www.fox.com
+2. cdn.optimizely.com
+3. cloud.typography.com
+4. tags.tiqcdn.com
+5. entitlement.auth.adobe.com
+6. 2364010203.log.optimizely.com
+7. connect.facebook.net
+8. cdnjs.cloudflare.com
+9. d2wgn7zv2wvh1n.cloudfront.net
+10. d3pqsunsz2jksl.cloudfront.net
+11. cdns.gigya.com
+12. adm.fwmrm.net
+13. api.fox.com

@@ -1,0 +1,39 @@
+safebrowsing.google.com: 1 Time: 2017-03-13 09:48:20 
+1. safebrowsing.google.com
+www.forbes.com: 10 Time: 2017-03-13 09:48:22 
+1. www.forbes.com
+2. images.forbes.com
+3. i.forbesimg.com
+4. native.sharethrough.com
+5. 0.gravatar.com
+6. 2.gravatar.com
+7. contextual.media.net
+8. www.googletagservices.com
+9. fast.forbes.com
+10. sb.scorecardresearch.com
+www.googletagmanager.com: 4 Time: 2017-03-13 09:48:23 
+1. www.googletagmanager.com
+2. c.amazon-adsystem.com
+3. safebrowsing.google.com
+4. native.sharethrough.com
+www.googletagservices.com: 8 Time: 2017-03-13 09:49:25 
+1. www.googletagservices.com
+2. i.forbesimg.com
+3. blogs-images.forbes.com
+4. specials-images.forbesimg.com
+5. images.forbes.com
+6. w1.buysub.com
+7. cdns.gigya.com
+8. consent.truste.com
+www.forbes.com: 11 Time: 2017-03-13 09:49:48 
+1. www.forbes.com
+2. app-ab13.marketo.com
+3. s.graphiq.com
+4. w.graphiq.com
+5. players.brightcove.net
+6. 0.gravatar.com
+7. 2.gravatar.com
+8. sb.scorecardresearch.com
+9. safebrowsing.google.com
+10. 2.gravatar.com
+11. 0.gravatar.com

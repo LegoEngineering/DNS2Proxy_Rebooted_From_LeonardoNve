@@ -1,0 +1,22 @@
+msn.com: 1 Time: 2017-03-13 10:42:39 
+1. msn.com
+www.msn.com: 10 Time: 2017-03-13 10:42:40 
+1. www.msn.com
+2. static-hp-eus-s-msn-com.akamaized.net
+3. o.aolcdn.com
+4. img-s-msn-com.akamaized.net
+5. rad.msn.com
+6. c.msn.com
+7. www.bing.com
+8. otf.msn.com
+9. b.scorecardresearch.com
+10. c.bing.com
+www.bizographics.com: 8 Time: 2017-03-13 10:42:47 
+1. www.bizographics.com
+2. login.live.com
+3. widgets.outbrain.com
+4. otf.msn.com
+5. cdn.taboola.com
+6. otf.msn.com
+7. otf.msn.com
+8. otf.msn.com
